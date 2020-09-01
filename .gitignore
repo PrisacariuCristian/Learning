@@ -35,16 +35,18 @@ Learning/.vs/Learning/v14/.suo
 
 *.ilk
 
-*.opendb
-
 *.pdb
-
-*.vcxproj
-
-*.filters
-
-*.user
 
 *.sln
 
 *.db
+
+*.opendb
+
+*.vcxproj
+*.filters
+
+*.user
+
+
+Learning/.vs/Learning/v14/.suo
