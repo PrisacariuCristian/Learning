@@ -50,3 +50,12 @@ Learning/.vs/Learning/v14/.suo
 
 
 Learning/.vs/Learning/v14/.suo
+*.log
+
+*.tlog
+
+*.idb
+
+*.iobj
+
+*.ipdb

@@ -39,12 +39,12 @@ void DynamicArray::insert(int item)
 
 int * DynamicArray::get_all()
 {
-
+	return nullptr;
 }
 
 int DynamicArray::get(int index)
 {
-
+	return 0;
 }
 
 DynamicArray::~DynamicArray()
