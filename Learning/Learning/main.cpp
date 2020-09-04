@@ -2,6 +2,7 @@
 
 #include <string.h>
 
+//===== Main loop =====//
 int main()
 {
 	DynamicArray array;
