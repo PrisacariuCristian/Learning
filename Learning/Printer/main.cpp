@@ -16,8 +16,19 @@ int main()
 */
 
 #include "lib/Printer.h"
+#include "lib/MathMini.h"
+
+void test()
+{
+	Printer print;
+	std::cout << print.power(3, 4) << std::endl;
+}
 
 int main()
 {
-	Printer print;
+	Vector2D<int> vector(1, 2);
+
+	std::cout << vector.get_x() << std::endl;
+	
+	std::cin.get();
 }
